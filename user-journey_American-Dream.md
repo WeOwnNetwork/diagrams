@@ -1,6 +1,6 @@
 ```mermaid
 journey
-title The 🇺🇸 American Dream [CAMPAIGN] + ♾️ We Own 🏡 Hacker House [BOOTCAMP]
+title The 🇺🇸 American Dream [CAMPAIGN] + ♾️ We Own 🤖 Ai Agency [BOOTCAMP]
 section [1] Social Ad (Facebook, Instagram, TikTok, etc)
   See Ad: 3: Candidate 
   Register for Webinar: 4: Candidate 
